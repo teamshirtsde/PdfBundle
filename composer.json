@@ -20,7 +20,7 @@
     "require": {
         "php": ">=5.3.0",
         "symfony/symfony": "~2.3|~3.0",
-        "psliwa/php-pdf": "dev-master",
+        "psliwa/php-pdf": "dev-teamshirts",
         "sensio/framework-extra-bundle": ">=2.0 <4.0.0"
     },
     "require-dev": {
